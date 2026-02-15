@@ -156,7 +156,7 @@ Predicted Category: POLITICS
 
 Type exit to stop.
 
-🛠 Project Structure
+Project Structure
 Project Folder
  ├── M25CSE031_prob4.py
  ├── README.md
