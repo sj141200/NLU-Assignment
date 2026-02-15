@@ -162,7 +162,7 @@ Project Folder
  ├── README.md
  └── Report.pdf
 
-⚠ Limitations
+Limitations
 
 Vocabulary overlap between domains can cause confusion.
 
